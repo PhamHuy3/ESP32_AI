@@ -23,11 +23,11 @@
 #include <esp_heap_caps.h>
 #include <lwip/sockets.h>
 
-const char* wifi_ssid = "POCO C40";
-const char* wifi_password = "01032004";
+const char* wifi_ssid = "";
+const char* wifi_password = "";
 
-const char* TELEGRAM_BOT_TOKEN = "8131600374:AAFpHUjq96zD6gNplMVOljyy7QHqvASPcHA";// Từ BotFather
-const char* TELEGRAM_CHAT_ID = "5671860475";// Từ @userinfobot
+const char* TELEGRAM_BOT_TOKEN = "8131600374:AAF..........VOljyy7QHqvASPcHA";// Từ BotFather
+const char* TELEGRAM_CHAT_ID = "567....75";// Từ @userinfobot
 #define LED_GPIO 38
 
 // TCP server
